@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Wisata Bandung',
+      title: 'Wisata Bandung Size: ${MediaQuery.of(context).size.width}',
       theme: ThemeData(
           // fontFamily: 'Oswald',
           primarySwatch: Colors.red),
