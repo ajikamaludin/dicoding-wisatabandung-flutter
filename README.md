@@ -1,6 +1,6 @@
 # wisatabandung
 
-A new Flutter project.
+sebuah project flutter - belajar flutter untuk pemuda dari dicoding.
 
 ## Getting Started
 
